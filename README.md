@@ -1,2 +1,1 @@
-# My Personal Profile Page
- 
+My first Front End Web Development Techdegree project: personal profile page.
