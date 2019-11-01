@@ -1,1 +1,2 @@
-My first Front End Web Development Techdegree project: personal profile page.
+# My Personal Profile Page
+1st Treehouse Front End Techdegree project.
